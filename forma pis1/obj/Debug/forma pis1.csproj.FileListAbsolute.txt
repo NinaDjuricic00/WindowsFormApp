@@ -1,0 +1,10 @@
+C:\Users\Nina\source\repos\forma pis1\forma pis1\bin\Debug\forma pis1.exe.config
+C:\Users\Nina\source\repos\forma pis1\forma pis1\bin\Debug\forma pis1.exe
+C:\Users\Nina\source\repos\forma pis1\forma pis1\bin\Debug\forma pis1.pdb
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma pis1.csproj.AssemblyReference.cache
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma_pis1.Form1.resources
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma_pis1.Properties.Resources.resources
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma pis1.csproj.GenerateResource.cache
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma pis1.csproj.CoreCompileInputs.cache
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma pis1.exe
+C:\Users\Nina\source\repos\forma pis1\forma pis1\obj\Debug\forma pis1.pdb
